@@ -4,7 +4,7 @@ This demo project is a remake of Korean social network service [Cyworld](https:/
 
 
 # Credits
-This web application is developed by Kyung-jin Cho (©jin.cho.dev). All artworks created by Kyung-jin Cho (©jin.cho.dev). Please note that character design is based on Tiny Tower. Background music is created by Youngill Kim.\
+This web application is developed by Kyung-jin Cho (©jiiin.cho.dev). All artworks created by Kyung-jin Cho (©jiiin.cho.dev). Please note that character design is based on Tiny Tower. Background music is created by Youngill Kim.\
 <strong>This is demo-use-only. © All rights reserved 2022.</strong>
 
 
